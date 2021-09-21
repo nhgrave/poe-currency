@@ -1,0 +1,13 @@
+{
+  "name": "poe-currency",
+  "version": "1.0.0",
+  "description": "A node.js project",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "crawler": "1.3.0"
+  }
+}
